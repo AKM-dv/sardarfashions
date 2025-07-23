@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sardarfashions/static/css/main.f6f596e3.css",
+    "main.js": "/sardarfashions/static/js/main.7f6c4d44.js",
+    "index.html": "/sardarfashions/index.html",
+    "main.f6f596e3.css.map": "/sardarfashions/static/css/main.f6f596e3.css.map",
+    "main.7f6c4d44.js.map": "/sardarfashions/static/js/main.7f6c4d44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6f596e3.css",
+    "static/js/main.7f6c4d44.js"
+  ]
+}
